@@ -1,0 +1,18 @@
+prefix: "&7[&aFactionsTp&7]"
+
+teleport-request:
+  sent: "&7You have sent a teleport request to your faction online members!"
+  received: "&7You have received a teleport request by {player}"
+  accepted: "&7You have been teletrasported to {player}"
+  denied: "&7You have refused the teleport!"
+  no-requests: "&7You don't have requests of teleport!"
+
+Factions:
+  teleport-in-enemy-land: false
+  teleport-in-enemy-land-disabled: "&7You can't sand a tp request from a enemy land!"
+  no-online-members: "&7There aren't faction members online!"
+  no-faction: "&7You dont have a faction!"
+  no-arguments: "&7Invalid arguments, use /ftp <here/accept/deny>"
+  cmd-usage: "&7Correct usage: /ftp <here/accept/deny>!"
+  reloaded: "&7Plugin reloaded!"
+  reload-no-perm: "&7You dont have enough perms!"

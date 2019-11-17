@@ -1,0 +1,9 @@
+name: FactionsTp
+author: OpsCrashed
+version: 1.0
+depend: ["Factions"]
+main: it.opscrashed.factionstp
+description: Teleport your ally to you!
+commands:
+  ftp:
+    description: teleport players of your ally to you!
